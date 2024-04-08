@@ -1,0 +1,39 @@
+.card-category {
+    background-color: #007bff;
+    border-radius: 0.25rem;
+    color: #fff;
+    display: inline-block;
+    font-size: 0.75rem;
+    line-height: 1;
+    padding: 0.25rem 0.5rem;
+    text-transform: uppercase;
+    align-items: center;
+  }
+  
+  .card-title {
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+  }
+  
+  .card-description {
+    margin-bottom: 1rem;
+    font-size: 0.875rem;
+    line-height: 1.5;
+  }
+  
+  .card-footer {
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.03);
+    border-top: 1px solid rgba(0, 0, 0, 0.125);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .card-category-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  
